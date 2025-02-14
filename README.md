@@ -35,7 +35,7 @@ We are a team of **6 senior engineering students** from Cairo University, Facult
 ## Acknowledgments
 We would like to express our gratitude to the following individuals and organizations for their support and guidance:
 - **Prof. Yasmine Fahmy**: Our professor supervisor for her invaluable guidance and feedback throughout the project.
-- **OrionX Semiconductor**: Our sponsor company for providing Project idead, resources and technical support.
+- **OrionX Semiconductor**: Our sponsor company for providing Project idea, resources and technical support.
 
 ---
 
