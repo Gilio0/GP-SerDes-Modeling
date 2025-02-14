@@ -17,7 +17,7 @@ The receiver design consists of the following blocks:
 4. **DFE (Decision Feedback Equalizer)**: Further reduces ISI by using past decisions to cancel out interference.
 5. **LMS (Least Mean Squares)**: Adaptive algorithm used to optimize the equalizer coefficients.
 6. **CDR (Clock and Data Recovery)**: Recovers the clock signal and retimes the data.
-7. **FEC (Forward Error Correction)**: Detects and corrects errors in the received data.
+7. **FEC (Forward Error Correction)**: Detects and corrects errors in the received data using the **Reed-Solomon** algorithm.
 
 ---
 
